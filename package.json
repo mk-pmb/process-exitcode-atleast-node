@@ -1,0 +1,30 @@
+{ "name": "process-exitcode-atleast",
+  "version": "1.0.0",
+  "description": "Set process.exitCode to at least that number.",
+  "keywords": ["process"],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/process-exitcode-atleast-node/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/process-exitcode-atleast-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/process-exitcode-atleast-node/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "pea.js",
+  "scripts": { "test": "bash test/all.sh" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
